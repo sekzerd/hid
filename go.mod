@@ -1,4 +1,4 @@
-module github.com/bearsh/hid
+module github.com/sekzerd/hid
 
 go 1.17
 
